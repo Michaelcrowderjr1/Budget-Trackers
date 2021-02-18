@@ -33,7 +33,7 @@ When brought back online:
 
 ## Table of Contents
 * [Installation](#installation)
-* [UserStory](#UserStory)
+* [User-Story](#User-Story)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
