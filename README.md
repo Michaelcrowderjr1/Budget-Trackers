@@ -80,7 +80,7 @@ npm start
 
 
 ## Screenshot 
-https://github.com/Michaelcrowderjr1/Budget-Trackers/blob/main/Budget-Trackers.PNG?raw=true
+<img src="https://github.com/Michaelcrowderjr1/Budget-Trackers/blob/main/Budget-Trackers.PNG?raw=true">
 
 ### Heroku Link
 [Heroku Budget Tracker Link](https://rocky-headland-91018.herokuapp.com/)
