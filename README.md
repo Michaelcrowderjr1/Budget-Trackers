@@ -32,18 +32,16 @@ When brought back online:
 <p>&nbsp;<p>
 
 ## Table of Contents
-* [User Story](#User Story)
+* [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 
 <p>&nbsp;<p>
 
-## User Story
+## Installation
 
-AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
+To install dependencies when executing on localhost, run the following:
 
 ```
 npm i
