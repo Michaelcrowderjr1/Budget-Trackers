@@ -4,11 +4,9 @@
 ![License](https://img.shields.io/static/v1?label=Language&message=JavaScript&color=brightgreen)
 ![License](https://img.shields.io/static/v1?label=Language&message=CSS.js&color=orange) 
 ![License](https://img.shields.io/static/v1?label=Language&message=Node.js&color=green)
-
-
 ![License](https://img.shields.io/static/v1?label=Language&message=MongoDB&color=blueviolet)
 ![License](https://img.shields.io/static/v1?label=Language&message=Mongoose&color=blue)
-![License](https://img.shields.io/static/v1?label=Language&message=Express.js&color=yellowgreen)
+
 
   ---
   
