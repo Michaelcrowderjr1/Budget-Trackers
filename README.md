@@ -33,13 +33,14 @@ When brought back online:
 
 ## Table of Contents
 * [Installation](#installation)
+* [User Story](#User Story)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 
 <p>&nbsp;<p>
 
-## Installation
+## User Story
 
 To install dependencies when executing on localhost, run the following:
 
