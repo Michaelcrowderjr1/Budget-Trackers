@@ -39,6 +39,20 @@ When brought back online:
 * [Contributing](#contributing)
 
 <p>&nbsp;<p>
+  
+  ## Installation
+Download (and unpack) or clone the repo, then using a CLI run the following:
+
+```
+npm install
+
+```
+npm run build
+
+```
+npm run start
+```
+
 
 ## User Story
 
