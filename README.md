@@ -16,36 +16,34 @@
 
 ## Description
 
-This project is an intuitive budgeting tool that allows a user to keep track of their deposits and expenses. These entries are stored in a table format with their provided description and amount, and visualized over time in a date stamped line chart as well. This is a progressive web application that can be used both online, and offline if necessary. In the event that a connection is lost during use, transaction entries will be stored temporarily in `IndexedDB` "pending" storage, and then permanently added to the `MongoDB` database once a connection can be established again. A `Service Worker` file provides a cached version of the website when using offline so the user interface can continue to be utilized during an outage.
-
-This project had the following criteria:
-
-Utilizing this app, the user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
-
+Users will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 Offline Functionality:
 
-  * Enter deposits offline
+*Enter deposits offline
 
-  * Enter expenses offline
+
+*Enter expenses offline
+
 
 When brought back online:
 
-  * Offline entries should be added to tracker.
-
+*Offline entries should be added to tracker.
 
 <p>&nbsp;<p>
 
 ## Table of Contents
-* [Installation](#installation)
+* [User Story](#User Story)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 
 <p>&nbsp;<p>
 
-## Installation
+## User Story
 
-To install dependencies when executing on localhost, run the following:
+AS AN avid traveller
+I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+SO THAT my account balance is accurate when I am traveling
 
 ```
 npm i
