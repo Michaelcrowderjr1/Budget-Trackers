@@ -63,7 +63,7 @@ SO THAT my account balance is accurate when I am traveling
 - [Express.js](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Webpack](https://webpack.js.org/)
-* [Visual Studio Code](code.visualstudio.com)
+- [Visual Studio Code](code.visualstudio.com)
 
 <p>&nbsp;<p>
 
